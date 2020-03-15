@@ -2,8 +2,9 @@
 Software Developer Interview Practice
 
 All the data structure and algorithms problems and solutions links
-https://medium.com/@codingfreak
-https://java2blog.com/data-structure-and-algorithm-interview-questions-in-java/#Question_45_Longest_Common_Prefix_in_an_array_of_Strings_in_java
+
+1) https://medium.com/@codingfreak
+2) https://java2blog.com/data-structure-and-algorithm-interview-questions-in-java/#Question_45_Longest_Common_Prefix_in_an_array_of_Strings_in_java
 
 OOD System designs
 1. Chess desing
@@ -27,7 +28,7 @@ Design Pattern
 https://codepumpkin.com/observer-design-pattern/
 
 Good explaination with example
-https://codepumpkin.com/category/design-patterns/
-https://codepumpkin.com/category/design-patterns/page/2/
-https://codepumpkin.com/design-patterns/
+1) https://codepumpkin.com/category/design-patterns/
+2) https://codepumpkin.com/category/design-patterns/page/2/
+3) https://codepumpkin.com/design-patterns/
 
